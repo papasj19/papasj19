@@ -4,7 +4,7 @@
 ![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=papasj19&count_private=true&theme=dark)
 
 -->
-### And now lets look at my favorite languages: 👋
+### Here are my favorite languages: 😊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papasj19&layout=compact&theme=dark)
 
 <!--
