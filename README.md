@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate on a project with an international community
 - 😄 This page is a collection of my school projects with some personal side projects
 - 🎄 I also try to complete some of the [Advent of Code](https://adventofcode.com) problems
-- 📫 How to reach me: [Linked In](www.linkedin.com/in/spencer-johnson-23410028b)
 
   
 ### Here are my favorite languages: 😊
