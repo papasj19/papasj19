@@ -5,10 +5,11 @@
 
 -->
 ### Welcome to my page! 👋
-- 🔭 I’m currently studying computer engineering
-- 🌱 I’m currently learning front end web development
+- 🔭 I’m studying computer engineering
+- 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on a project with an international community
 - 😄 This page is a collection of my school projects with some personal side projects
+- ⚡ My way to practice is with the daily [Coddy](https://coddy.tech) and [LeetCode](https://leetcode.com) problems
 - 🎄 I also try to complete some of the [Advent of Code](https://adventofcode.com) problems
 
   
