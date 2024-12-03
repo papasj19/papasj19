@@ -6,10 +6,10 @@
 -->
 ### Welcome to my page! 👋
 - 🔭 I’m studying computer engineering
+- 🌱 I like to program web pages for fun! 
 - 👯 I’m looking to collaborate on a project with an international community
 - 😄 This page is a collection of my school projects with some personal side projects
 - ⚡ My way to practice is with the daily [Coddy](https://coddy.tech) and [LeetCode](https://leetcode.com) problems
-- 🌱 I do web programming for fun!
 - 🎄 I also try to complete some of the [Advent of Code](https://adventofcode.com) problems
 
   
