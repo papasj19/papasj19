@@ -9,12 +9,17 @@
 - 🌱 I like to program web pages for fun! 
 - 👯 I’m looking to collaborate on a project with an international community
 - 😄 This page is a collection of my school projects with some personal side projects
-- ⚡ My way to practice is with the daily [Coddy](https://coddy.tech) and [LeetCode](https://leetcode.com) problems
+- ⚡ My way to practice is with the daily [Coddy](https://coddy.tech) and [LeetCode](https://leetcode.com) exercises
 - 🎄 I also try to complete some of the [Advent of Code](https://adventofcode.com) problems
 
   
 ### Here are my favorite languages: 😊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papasj19&layout=compact&theme=dark)
+
+
+### Checkout my sites!
+[Ice Cream Store](https://www.mr-bills-market.com)
+[Studio Gato Galactico](https://www.studiogatogalactico.com)
 
 <!--
 **papasj19/papasj19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
